@@ -1,0 +1,22 @@
+ 
+ html,body{
+ 	margin:0px;
+ 	padding:0px
+ }
+ 
+ /** Í·²¿ **/
+ .header{
+ 	width:100%;
+ 	height:30px;
+ 	background:#fff;
+ }
+.top_l{float:left;margin-left:50px;}
+.top_l h2{height:20px;font-size:15px;font-family:'Microsoft YaHei';font-weight:400;margin:0} 
+.top_r{float:right;margin-right:100px;height:20px;}
+.top_r ul{list-style:none;height:20px;margin:0}
+.top_r ul li{float:left;margin:0 5px;height:20px;font-size:15px;}
+
+/** ×¢²á  **/
+.reg ul{list-style:none;}
+.reg ul li{margin:5px;}
+.btn{width:173px;}
